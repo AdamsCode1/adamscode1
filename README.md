@@ -4,9 +4,6 @@
 
 # 📊 GitHub Stats
 
-<!-- overall stats -->
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamsCode1&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true)
-
 <!-- top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsCode1&layout=compact&theme=transparent&hide_border=false&count_private=true&langs_count=8)
 
